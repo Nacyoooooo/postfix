@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fdd08c0-68e5-4588-9181-16efa4723b9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/czh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/CalcuationMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/ExpressionConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/MyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/PartialDerivative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comchenzhihao/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comchenzhihao/TestTT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/semeru-1.8.0_392/src.zip!/com/ibm/jit/JITHelpers.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/semeru-1.8.0_392/src.zip!/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/comchenzhihao/Variable.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Zu1GyO1UdKf3oOxnuEn1z3KS6J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/DFCourseDesign/DSCourseDesign-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;cf690e75192407f453014b993508a8ed&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="comchenzhihao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainActivity.calcaulate">
+    <configuration name="MainActivity.calcaulate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PostfixTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comchenzhihao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comchenzhihao" />
+      <option name="MAIN_CLASS_NAME" value="comchenzhihao.MainActivity" />
+      <option name="METHOD_NAME" value="calcaulate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity.constantFolding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PostfixTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comchenzhihao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comchenzhihao" />
+      <option name="MAIN_CLASS_NAME" value="comchenzhihao.MainActivity" />
+      <option name="METHOD_NAME" value="constantFolding" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity.constructBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PostfixTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comchenzhihao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comchenzhihao" />
+      <option name="MAIN_CLASS_NAME" value="comchenzhihao.MainActivity" />
+      <option name="METHOD_NAME" value="constructBinaryTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity.elementaryFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PostfixTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comchenzhihao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comchenzhihao" />
+      <option name="MAIN_CLASS_NAME" value="comchenzhihao.MainActivity" />
+      <option name="METHOD_NAME" value="elementaryFunction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.testVector" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PostfixTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comchenzhihao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="comchenzhihao" />
+      <option name="MAIN_CLASS_NAME" value="comchenzhihao.Main" />
+      <option name="METHOD_NAME" value="testVector" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainActivity.calcaulate" />
+        <item itemvalue="JUnit.MainActivity.constructBinaryTree" />
+        <item itemvalue="JUnit.Main.testVector" />
+        <item itemvalue="JUnit.MainActivity.elementaryFunction" />
+        <item itemvalue="JUnit.MainActivity.constantFolding" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fdd08c0-68e5-4588-9181-16efa4723b9b" name="Changes" comment="" />
+      <created>1703257058445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703257058445</updated>
+      <workItem from="1703257059439" duration="6818000" />
+      <workItem from="1703316759877" duration="8870000" />
+      <workItem from="1703331297907" duration="6862000" />
+      <workItem from="1703486155866" duration="24610000" />
+      <workItem from="1703567074920" duration="1499000" />
+      <workItem from="1703568672926" duration="51000" />
+      <workItem from="1703606255120" duration="1910000" />
+      <workItem from="1703734708621" duration="15227000" />
+      <workItem from="1703776478207" duration="1956000" />
+      <workItem from="1703822759102" duration="16483000" />
+      <workItem from="1703853199915" duration="8107000" />
+      <workItem from="1703941076686" duration="760000" />
+      <workItem from="1703942220944" duration="1669000" />
+      <workItem from="1703943976578" duration="629000" />
+      <workItem from="1703945489419" duration="66000" />
+      <workItem from="1703946054629" duration="8000" />
+      <workItem from="1703946602693" duration="54000" />
+      <workItem from="1703946701596" duration="12000" />
+      <workItem from="1703946776595" duration="882000" />
+      <workItem from="1704003593377" duration="22467000" />
+      <workItem from="1704115502471" duration="1841000" />
+      <workItem from="1704122454185" duration="2262000" />
+      <workItem from="1704125094638" duration="15000" />
+      <workItem from="1704126145526" duration="1140000" />
+      <workItem from="1704204806652" duration="5074000" />
+      <workItem from="1704259322001" duration="20961000" />
+      <workItem from="1704297213382" duration="10850000" />
+      <workItem from="1704310026069" duration="8000" />
+      <workItem from="1704329041852" duration="2637000" />
+      <workItem from="1705047338971" duration="6615000" />
+      <workItem from="1705138011920" duration="187000" />
+      <workItem from="1705307617317" duration="140000" />
+      <workItem from="1707192152719" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/ExpressionConverter.java</url>
+          <line>443</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/ExpressionConverter.java</url>
+          <line>411</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/ExpressionConverter.java</url>
+          <line>632</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/ExpressionConverter.java</url>
+          <line>579</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/Main.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/Main.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/comchenzhihao/Main.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="comchenzhihao.BinaryTree" memberName="head" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
